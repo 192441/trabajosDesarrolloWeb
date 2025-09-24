@@ -1,2 +1,2 @@
 # trabajosDesarrolloWeb
-repositorio para agregar trabajos
+repositorio para agregar los trabajos de desarrollo web
